@@ -1,0 +1,22 @@
+{
+  "name": "shopback-html-seo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/index.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/914inlive/shopback-html-seo.git"
+  },
+  "keywords": [],
+  "author": "joyce.chen",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
