@@ -1,6 +1,6 @@
 {
   "name": "shopback-html-seo",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,14 @@
   "author": "joyce.chen",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/914inlive/shopback-html-seo/issues"
+  },
+  "homepage": "https://github.com/914inlive/shopback-html-seo#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "license": "ISC"
 }
